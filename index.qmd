@@ -2,8 +2,8 @@
 title: "About Me"
 about:
   id: me
-  template: jolla
-  image: img/moss.jpg
+  template: broadside
+  image: img/evil.gif
 ---
 
 :::{#me}
