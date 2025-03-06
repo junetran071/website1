@@ -15,8 +15,6 @@ about:
 
 ## Experience
 
-![Profile Picture](img/evil.gif){ width=300px height=auto }
-
 :::
 
 Thanks for checking out my website!
