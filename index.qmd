@@ -3,11 +3,11 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/evil.gif
-  image-width: 300px 
 ---
 
 :::{#me}
+
+![Profile Picture](img/evil.gif){ width=300px height=auto }
 
 ## Goals
 
