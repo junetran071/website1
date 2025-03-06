@@ -4,6 +4,7 @@ about:
   id: me
   template: broadside
   image: img/evil.gif
+  image-width: 300px  # Adjust width for better visibility
 ---
 
 :::{#me}
@@ -14,6 +15,8 @@ about:
 
 ## Experience
 
+![Profile Picture](img/evil.gif){ width=300px height=auto }
+
 :::
 
-Thanks for checking out my web site!
+Thanks for checking out my website!
