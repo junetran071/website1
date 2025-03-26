@@ -11,7 +11,7 @@ website:
       - projects.qmd
     tools:
       - icon: twitter
-        href: https://twitter.com/
+        href: 
       - icon: github
         href: https://github.com/junetran071/website1
   page-footer:
