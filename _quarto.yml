@@ -20,9 +20,9 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: morph
     toc: true
 
-editor: source
+editor: visual
 
 

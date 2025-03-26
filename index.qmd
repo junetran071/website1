@@ -5,16 +5,18 @@ about:
   template: broadside
 ---
 
-:::{#me}
+::: {#me}
+<p align="left">
 
-![Profile Picture](img/evil.gif){ width=300px height=auto }
+![](img/evil.gif){fig-align="left" width="300" height="453"}
+
+</p>
 
 ## Goals
 
 ## Education
 
 ## Experience
-
 :::
 
 Thanks for checking out my website!
